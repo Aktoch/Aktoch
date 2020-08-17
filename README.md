@@ -8,3 +8,4 @@ amante de automação de tarefa e facilitação de implementação de sistemas.
 1. python
 2. shell
 3. ruby
+4. GO
