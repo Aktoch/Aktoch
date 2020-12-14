@@ -9,3 +9,5 @@ amante de automação de tarefa e facilitação de implementação de sistemas.
 2. shell
 3. ruby
 4. GO
+
+<script src="https://tryhackme.com/badge/118493"></script>
