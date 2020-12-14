@@ -10,4 +10,4 @@ amante de automação de tarefa e facilitação de implementação de sistemas.
 3. ruby
 4. GO
 
-<script src="https://tryhackme.com/badge/118493"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Aktoch0.png" alt="TryHackMe">
